@@ -1,0 +1,1 @@
+$identifier 123 123.57 'Hola' : := > >= == != + || && { $identifier := 123 }
